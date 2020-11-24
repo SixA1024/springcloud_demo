@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-center-server3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-client3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumerConsul-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumerFeign-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumerZk-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway-gateway9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-hystrix-dashboard9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-hystrix-payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-providerconsul-payment8006" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer-order81" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-provider-payment9002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-provider-payment9003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-provider-payment9004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-prvoider-payment9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-sentinel-service8401" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-account-service2003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-order-service2001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-storage-service2002" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

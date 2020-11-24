@@ -1,0 +1,29 @@
+server:
+  port: 3344
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/
+spring:
+  application:
+    name: cloud-config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/SixA1024/JSS.git
+          search-paths:
+            - JSS
+      label: master
+  rabbitmq:
+    host: 192.168.80.130
+    port: 5672
+    username: guest
+    password: guest
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
